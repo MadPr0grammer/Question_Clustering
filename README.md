@@ -4,7 +4,7 @@
 - `Plots` folder has all the plots
 - `Python_Scripts` folder has all the code files
 - `Saved_Files` folder has the files I saved after running algorithms like K-Means, PCA, T-SNE etc. on the dataset.
-  - `Trained_Models` folder [link] (https://drive.google.com/drive/folders/1IK3vOQVv_qqDIaZPKAr73C3oSgTpcONQ?usp=sharing).
+  - `Trained_Models` folder [link](https://drive.google.com/drive/folders/1IK3vOQVv_qqDIaZPKAr73C3oSgTpcONQ?usp=sharing).
 
 #### Inside the `Datasets` folder:
 - There are 2 files, the description of which is explained in the Dataset section. 
